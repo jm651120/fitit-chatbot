@@ -1,0 +1,14 @@
+python-dotenv==1.2.2
+requests==2.34.2
+beautifulsoup4==4.15.0
+lxml==6.1.1
+firecrawl-py==4.28.2
+langchain==0.3.30
+langchain-community==0.3.31
+langchain-core==0.3.86
+langchain-groq==0.3.8
+langchain-text-splitters==0.3.11
+sentence-transformers==5.5.1
+chromadb==1.5.9
+APScheduler==3.11.2
+streamlit==1.58.0

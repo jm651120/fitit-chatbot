@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Vector database
+chroma_db/
+
+# Crawled data and logs
+data/raw/
+data/processed/
+data/logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
