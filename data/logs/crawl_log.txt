@@ -1,0 +1,65 @@
+[2026-06-12 17:16:21] === CRAWL START (limit=60) ===
+[2026-06-12 17:16:26] Discovered 60 URLs after filtering
+[2026-06-12 17:16:33] OK https://fitit.pt/ status=200 type=pricing scraper=firecrawl chars=12626
+[2026-06-12 17:16:42] OK https://fitit.pt/mapa-de-aulas/ status=200 type=schedule scraper=firecrawl chars=46356 [SCHEDULE PAGE]
+[2026-06-12 17:16:47] OK https://fitit.pt/servicos/ status=200 type=schedule scraper=firecrawl chars=7801 [SCHEDULE PAGE]
+[2026-06-12 17:16:51] OK https://fitit.pt/inscricao/ status=200 type=pricing scraper=firecrawl chars=7110
+[2026-06-12 17:16:56] OK https://fitit.pt/contactos/ status=200 type=contact scraper=firecrawl chars=4033
+[2026-06-12 17:17:00] OK https://fitit.pt/quem-somos/ status=200 type=about scraper=firecrawl chars=4561
+[2026-06-12 17:17:06] OK https://fitit.pt/modalidades/ status=200 type=classes scraper=firecrawl chars=3604
+[2026-06-12 17:17:10] OK https://fitit.pt/forca/ status=200 type=classes scraper=firecrawl chars=8095
+[2026-06-12 17:17:16] OK https://fitit.pt/resistencia/ status=200 type=classes scraper=firecrawl chars=6379
+[2026-06-12 17:17:20] OK https://fitit.pt/body-mind/ status=200 type=classes scraper=firecrawl chars=7736
+[2026-06-12 17:17:26] OK https://fitit.pt/mobilidade/ status=200 type=classes scraper=firecrawl chars=5555
+[2026-06-12 17:17:41] OK https://fitit.pt/fun/ status=200 type=classes scraper=firecrawl chars=6684
+[2026-06-12 17:17:45] OK https://fitit.pt/kids/ status=200 type=classes scraper=firecrawl chars=4319
+[2026-06-12 17:17:52] OK https://fitit.pt/box-fit-it/ status=200 type=classes scraper=firecrawl chars=7484
+[2026-06-12 17:17:56] OK https://fitit.pt/small-group-indoor/ status=200 type=classes scraper=firecrawl chars=6041
+[2026-06-12 17:18:04] OK https://fitit.pt/modalidade/bodymind/ status=200 type=classes scraper=firecrawl chars=3078
+[2026-06-12 17:18:09] OK https://fitit.pt/fitemcasa/ status=200 type=classes scraper=firecrawl chars=4605
+[2026-06-12 17:18:14] OK https://fitit.pt/corporate/ status=200 type=general scraper=firecrawl chars=4321
+[2026-06-12 17:18:23] OK https://fitit.pt/empresas/ status=200 type=pricing scraper=firecrawl chars=4614
+[2026-06-12 17:18:28] OK https://fitit.pt/parcerias/ status=200 type=general scraper=firecrawl chars=5707
+[2026-06-12 17:18:33] OK https://fitit.pt/parceria/ status=200 type=pricing scraper=firecrawl chars=3080
+[2026-06-12 17:18:37] OK https://fitit.pt/treino-experimental/ status=200 type=pricing scraper=firecrawl chars=3661
+[2026-06-12 17:18:41] OK https://fitit.pt/voucher/ status=200 type=pricing scraper=firecrawl chars=3610
+[2026-06-12 17:18:46] OK https://fitit.pt/planos-off-peak/ status=200 type=pricing scraper=firecrawl chars=6047
+[2026-06-12 17:18:52] OK https://fitit.pt/fitit-max/ status=200 type=pricing scraper=firecrawl chars=6976
+[2026-06-12 17:18:56] OK https://fitit.pt/pack-familia/ status=200 type=pricing scraper=firecrawl chars=4912
+[2026-06-12 17:19:04] OK https://fitit.pt/recrutamento/ status=200 type=general scraper=firecrawl chars=3059
+[2026-06-12 17:19:08] OK https://fitit.pt/blog/ status=200 type=blog scraper=firecrawl chars=4942
+[2026-06-12 17:19:13] OK https://fitit.pt/condicoes-contratuais/ status=200 type=legal scraper=firecrawl chars=18718
+[2026-06-12 17:19:21] OK https://fitit.pt/politica-de-privacidade/ status=200 type=legal scraper=firecrawl chars=6130
+[2026-06-12 17:19:28] OK https://fitit.pt/pack-familia-campanha/ status=200 type=general scraper=firecrawl chars=4032
+[2026-06-12 17:19:32] OK https://fitit.pt/afinal-o-que-e-um-estilo-de-vida-ativo-e-como-mante-lo/ status=200 type=general scraper=firecrawl chars=6801
+[2026-06-12 17:19:35] OK https://fitit.pt/estrategias-inteligentes-para-emagrecer/ status=200 type=general scraper=firecrawl chars=5811
+[2026-06-12 17:19:40] OK https://fitit.pt/o-autocuidado-e-recuperacao-no-pos-treino/ status=200 type=general scraper=firecrawl chars=5476
+[2026-06-12 17:19:44] OK https://fitit.pt/avaliacao-da-composicao-corporal-como-funciona-a-bioimpedancia/ status=200 type=general scraper=firecrawl chars=6041
+[2026-06-12 17:19:48] OK https://fitit.pt/sarcopenia/ status=200 type=general scraper=firecrawl chars=5376
+[2026-06-12 17:19:52] OK https://fitit.pt/exercicio-fisico-o-fator-motivacao/ status=200 type=general scraper=firecrawl chars=5499
+[2026-06-12 17:19:56] OK https://fitit.pt/ortorexia-nervosa-qual-a-linha-que-separa-o-saudavel-do-demasiado-saudavel/ status=200 type=general scraper=firecrawl chars=7360
+[2026-06-12 17:20:01] OK https://fitit.pt/quanto-de-homo-sapiens-ha-em-nos/ status=200 type=general scraper=firecrawl chars=5569
+[2026-06-12 17:20:06] OK https://fitit.pt/suplementacao-por-creatina-traz-beneficios/ status=200 type=general scraper=firecrawl chars=7501
+[2026-06-12 17:20:14] OK https://fitit.pt/saude-e-bem-estar-tendencias-para-2023/ status=200 type=general scraper=firecrawl chars=6941
+[2026-06-12 17:20:18] OK https://fitit.pt/ginastica-hipopressiva-o-que-e-e-para-que-serve/ status=200 type=general scraper=firecrawl chars=5717
+[2026-06-12 17:20:21] OK https://fitit.pt/mindful-eating/ status=200 type=general scraper=firecrawl chars=7072
+[2026-06-12 17:20:27] OK https://fitit.pt/alimentacao-mediterranica/ status=200 type=general scraper=firecrawl chars=10310
+[2026-06-12 17:20:31] OK https://fitit.pt/a-importancia-do-plano-de-treino/ status=200 type=general scraper=firecrawl chars=5830
+[2026-06-12 17:20:35] OK https://fitit.pt/treino-aerobio-vs-forca-qual-o-melhor-aliado-na-perda-de-peso/ status=200 type=general scraper=firecrawl chars=8837
+[2026-06-12 17:20:39] OK https://fitit.pt/a-triade-da-mulher-atleta/ status=200 type=general scraper=firecrawl chars=7572
+[2026-06-12 17:20:43] OK https://fitit.pt/higiene-emocional-na-saude-mental/ status=200 type=general scraper=firecrawl chars=11849
+[2026-06-12 17:20:48] OK https://fitit.pt/sabes-mesmo-fazer-agachamentos/ status=200 type=general scraper=firecrawl chars=5183
+[2026-06-12 17:20:52] OK https://fitit.pt/agua-um-bem-precioso/ status=200 type=general scraper=firecrawl chars=6557
+[2026-06-12 17:20:56] OK https://fitit.pt/beneficios-do-exercicio-fisico-para-a-saude-mental/ status=200 type=general scraper=firecrawl chars=8165
+[2026-06-12 17:21:02] OK https://fitit.pt/ideias-para-nao-ficares-parado-este-natal/ status=200 type=general scraper=firecrawl chars=4837
+[2026-06-12 17:21:06] OK https://fitit.pt/exercicio-fisico-um-aliado-no-combate-a-pneumonia/ status=200 type=general scraper=firecrawl chars=5534
+[2026-06-12 17:21:13] OK https://fitit.pt/cinco-conselhos-para-regressar-aos-treinos-apos-o-verao/ status=200 type=general scraper=firecrawl chars=5631
+[2026-06-12 17:21:17] OK https://fitit.pt/salada-de-quinoa-e-atum/ status=200 type=general scraper=firecrawl chars=4067
+[2026-06-12 17:21:22] OK https://fitit.pt/better-together-treinar-com-amigos-porque/ status=200 type=general scraper=firecrawl chars=6093
+[2026-06-12 17:21:27] OK https://fitit.pt/a-fruta-e-toda-saudavel/ status=200 type=general scraper=firecrawl chars=6528
+[2026-06-12 17:21:31] OK https://fitit.pt/exercicio-fisico-no-verao-dicas-e-cuidados-a-ter-em-conta/ status=200 type=general scraper=firecrawl chars=5710
+[2026-06-12 17:21:35] OK https://fitit.pt/experiencia-fit-it-tomas-guedes/ status=200 type=general scraper=firecrawl chars=4362
+[2026-06-12 17:21:39] OK https://fitit.pt/cuidar-do-coracao-nao-e-uma-opcao/ status=200 type=general scraper=firecrawl chars=5205
+[2026-06-12 17:21:39] === CRAWL DONE: 60/60 pages, 2 schedule page(s) ===
+[2026-06-12 17:46:33] OK https://fitit.pt/mapa-de-aulas/ status=200 type=schedule scraper=firecrawl chars=46356 [SCHEDULE PAGE]
+[2026-06-12 17:46:59] OK https://fitit.pt/mapa-de-aulas/ status=200 type=schedule scraper=firecrawl chars=46356 [SCHEDULE PAGE]

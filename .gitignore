@@ -2,12 +2,12 @@
 .env
 
 # Vector database
-chroma_db/
+#chroma_db/
 
 # Crawled data and logs
-data/raw/
-data/processed/
-data/logs/
+# data/raw/
+# data/processed/
+# data/logs/
 
 # Python
 __pycache__/

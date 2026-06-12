@@ -1,0 +1,4 @@
+[2026-06-12 17:46:32] Weekly schedule check starting
+[2026-06-12 17:46:33] Schedule check: no changes detected
+[2026-06-12 17:46:58] Weekly schedule check starting
+[2026-06-12 17:47:31] Schedule CHANGED: re-indexed 8 chunks from 1 page(s)
