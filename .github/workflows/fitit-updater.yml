@@ -1,0 +1,30 @@
+name: Atualização Automática do Horário FIT IT
+
+on:
+  schedule:
+    # Corre todas as segundas às 06:00 UTC (07:00 em Portugal Continental)
+    - cron: '0 6 * * 1'
+  workflow_dispatch: # Permite-te correr manualmente no botão do GitHub para testar
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Instalar Dependências
+        run: pip install -r requirements.txt
+
+      - name: Executar Script de Atualização
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        # Aqui está o comando corrigido para force=True:
+        run: python -c "from src.updater import update_schedule; update_schedule(force=True)"
